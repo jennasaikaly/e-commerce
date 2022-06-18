@@ -27,7 +27,7 @@
 
  https://github.com/jennasaikaly/e-commerce
 
-  ## Video Walkthrough
+  ## Walkthrough
 
   https://drive.google.com/file/d/1OEdzpGuPxH5ewIhvjZGpY85nLY7ntHHA/view
   
