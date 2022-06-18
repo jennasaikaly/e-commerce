@@ -12,7 +12,7 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [Link](#link) 
-  * [Screenshot](#screenshot)
+  * [Video Walkthrough](#walkthrough)
    
   
   ## Installation
@@ -25,11 +25,11 @@
 
   ## Link
 
-  N/A
+ https://github.com/jennasaikaly/e-commerce
 
-  ## Screenshot
+  ## Video Walkthrough
 
-  N/A
+  https://drive.google.com/file/d/1OEdzpGuPxH5ewIhvjZGpY85nLY7ntHHA/view
   
   ## Questions
 
